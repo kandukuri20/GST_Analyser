@@ -52,6 +52,8 @@ It provides an end-to-end automated platform to reconcile a business's **Purchas
 
 ## 4. How to Run the Application
 
+> For a complete setup walkthrough and dependency guide across Windows, macOS, and Linux, refer to [INSTALLATION.md](INSTALLATION.md).
+
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
