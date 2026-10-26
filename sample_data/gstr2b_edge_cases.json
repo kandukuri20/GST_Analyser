@@ -1,0 +1,180 @@
+{
+  "gstin": "27AABCT9999Z1Z5",
+  "fp": "042024",
+  "b2b": [
+    {
+      "ctin": "27AAACS1234A1Z2",
+      "trdnm": "SHARMA TRADERS",
+      "inv": [
+        {
+          "inum": "SPLIT-99",
+          "dt": "10-04-2024",
+          "val": 92600.0,
+          "txval": 80000.0,
+          "cgst": 6300.0,
+          "sgst": 6300.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACG5678B1ZO",
+      "trdnm": "GUPTA STEELS LIMITED",
+      "inv": [
+        {
+          "inum": "458",
+          "dt": "12-04-2024",
+          "val": 23600.0,
+          "txval": 20000.0,
+          "cgst": 1800.0,
+          "sgst": 1800.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "29AAACB7788E1ZC",
+      "trdnm": "KARNATAKA PRECISION TOOLS",
+      "inv": [
+        {
+          "inum": "KPT-1102",
+          "dt": "14-04-2024",
+          "val": 17134.0,
+          "txval": 14520.0,
+          "cgst": 1307.0,
+          "sgst": 1307.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "07AAAAA1111A1ZY",
+      "trdnm": "NORTHERN ENTERPRISE",
+      "inv": [
+        {
+          "inum": "NE-881",
+          "dt": "15-04-2024",
+          "val": 47200.0,
+          "txval": 40000.0,
+          "cgst": 3600.0,
+          "sgst": 3600.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACR9012C1Z2",
+      "trdnm": "RAO POLYMERS",
+      "inv": [
+        {
+          "inum": "RP/909",
+          "dt": "02-04-2024",
+          "val": 70800.0,
+          "txval": 60000.0,
+          "cgst": 5400.0,
+          "sgst": 5400.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACM3456D1Z2",
+      "trdnm": "MEHTA CATERING SERVICES",
+      "inv": [
+        {
+          "inum": "MCS-301",
+          "dt": "18-04-2024",
+          "val": 100300.0,
+          "txval": 85000.0,
+          "cgst": 7650.0,
+          "sgst": 7650.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "N"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACD9999P1Z1",
+      "trdnm": "DELTA SYSTEMS",
+      "inv": [
+        {
+          "inum": "DUP-777",
+          "dt": "20-04-2024",
+          "val": 17700.0,
+          "txval": 15000.0,
+          "cgst": 1350.0,
+          "sgst": 1350.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACT0000L1Z4",
+      "trdnm": "RELIANCE RETAIL LIMITED",
+      "inv": [
+        {
+          "inum": "JIO-5541",
+          "dt": "26-04-2024",
+          "val": 53100.0,
+          "txval": 45000.0,
+          "cgst": 4050.0,
+          "sgst": 4050.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACZ7777K1Z3",
+      "trdnm": "ZENITH CLOUD SERVICES",
+      "inv": [
+        {
+          "inum": "ZCS/APR/001",
+          "dt": "28-04-2024",
+          "val": 29500.0,
+          "txval": 25000.0,
+          "cgst": 2250.0,
+          "sgst": 2250.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y"
+        }
+      ]
+    }
+  ],
+  "cdnr": [
+    {
+      "ctin": "27AAACS1234A1Z2",
+      "trdnm": "SHARMA TRADERS",
+      "nt": [
+        {
+          "ntty": "C",
+          "nt_num": "CN-005",
+          "dt": "19-04-2024",
+          "val": 11800.0,
+          "txval": 10000.0,
+          "cgst": 900.0,
+          "sgst": 900.0,
+          "igst": 0.0,
+          "cess": 0.0,
+          "itcavl": "Y",
+          "inum": "INV/2024/SPLIT-99"
+        }
+      ]
+    }
+  ]
+}

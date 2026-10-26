@@ -1,0 +1,870 @@
+{
+  "gstin": "27AABCT1332L1Z5",
+  "fp": "092026",
+  "docdata": {
+    "b2b": [
+      {
+        "ctin": "27AAACT2456M1Z2",
+        "cname": "Tata Consultancy Services Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0001",
+            "idt": "2026-09-09",
+            "val": 247695.11,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 209911.11,
+                "iamt": 0.0,
+                "camt": 18892.0,
+                "samt": 18892.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACM1122P1ZI",
+        "cname": "Mahindra & Mahindra Logistics",
+        "inv": [
+          {
+            "inum": "INV/2026/0002",
+            "idt": "2026-09-22",
+            "val": 179746.41,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 152327.47,
+                "iamt": 0.0,
+                "camt": 13709.47,
+                "samt": 13709.47,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACM1122P1ZI",
+        "cname": "Mahindra & Mahindra Logistics",
+        "inv": [
+          {
+            "inum": "BILL-3",
+            "idt": "2026-09-05",
+            "val": 204248.17,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 173091.67,
+                "iamt": 0.0,
+                "camt": 15578.25,
+                "samt": 15578.25,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACA8899J1Z6",
+        "cname": "Adani Ports & SEZ Ltd",
+        "inv": [
+          {
+            "inum": "INV/0004",
+            "idt": "2026-09-07",
+            "val": 98973.11,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 83874.97,
+                "iamt": 15098.14,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AABCI9087E1Z8",
+        "cname": "Infosys Technologies Ltd",
+        "inv": [
+          {
+            "inum": "GSTR-ONLY/0006",
+            "idt": "2026-09-28",
+            "val": 214952.01,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "N",
+            "rsn": "Ineligible under Section 17(5) - Blocked Credit",
+            "items": [
+              {
+                "num": 1,
+                "txval": 182162.72,
+                "iamt": 32789.29,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACR1234F1ZT",
+        "cname": "Reliance Retail Ventures",
+        "inv": [
+          {
+            "inum": "INV/2026/0008",
+            "idt": "2026-09-12",
+            "val": 60060.55,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 50898.77,
+                "iamt": 0.0,
+                "camt": 4580.89,
+                "samt": 4580.89,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AAACW3452B1ZK",
+        "cname": "Wipro Enterprises Pvt Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0009",
+            "idt": "2026-09-28",
+            "val": 109568.84,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 92854.95,
+                "iamt": 16713.89,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "07AAACB7890K1ZA",
+        "cname": "Bharti Airtel Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0010",
+            "idt": "2026-09-06",
+            "val": 179892.44,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 152451.22,
+                "iamt": 27441.22,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACR1234F1ZT",
+        "cname": "Reliance Retail Ventures",
+        "inv": [
+          {
+            "inum": "BILL-11",
+            "idt": "2026-09-20",
+            "val": 249238.08,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 211218.72,
+                "iamt": 0.0,
+                "camt": 19009.68,
+                "samt": 19009.68,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AABCI9087E1Z8",
+        "cname": "Infosys Technologies Ltd",
+        "inv": [
+          {
+            "inum": "INV/0012",
+            "idt": "2026-09-04",
+            "val": 209685.41,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 177698.95,
+                "iamt": 31986.46,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACR1234F1ZT",
+        "cname": "Reliance Retail Ventures",
+        "inv": [
+          {
+            "inum": "GSTR-ONLY/0014",
+            "idt": "2026-09-10",
+            "val": 211597.46,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "N",
+            "rsn": "Ineligible under Section 17(5) - Blocked Credit",
+            "items": [
+              {
+                "num": 1,
+                "txval": 179319.88,
+                "iamt": 0.0,
+                "camt": 16138.79,
+                "samt": 16138.79,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AABCI9087E1Z8",
+        "cname": "Infosys Technologies Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0016",
+            "idt": "2026-09-26",
+            "val": 242253.49,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 205299.57,
+                "iamt": 36953.92,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "07AAACB7890K1ZA",
+        "cname": "Bharti Airtel Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0017",
+            "idt": "2026-09-06",
+            "val": 151480.2,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 128373.05,
+                "iamt": 23107.15,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACS4455Q1ZY",
+        "cname": "Sun Pharma Industries",
+        "inv": [
+          {
+            "inum": "INV/2026/0018",
+            "idt": "2026-09-25",
+            "val": 240371.23,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 203704.43,
+                "iamt": 36666.8,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AAACW3452B1ZK",
+        "cname": "Wipro Enterprises Pvt Ltd",
+        "inv": [
+          {
+            "inum": "BILL-19",
+            "idt": "2026-09-05",
+            "val": 17051.91,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 14450.77,
+                "iamt": 2601.14,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACA8899J1Z6",
+        "cname": "Adani Ports & SEZ Ltd",
+        "inv": [
+          {
+            "inum": "INV/0020",
+            "idt": "2026-09-04",
+            "val": 119553.57,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 101316.03,
+                "iamt": 18237.54,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACL4567H1ZJ",
+        "cname": "Larsen & Toubro Ltd",
+        "inv": [
+          {
+            "inum": "GSTR-ONLY/0022",
+            "idt": "2026-09-28",
+            "val": 122636.74,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "N",
+            "rsn": "Ineligible under Section 17(5) - Blocked Credit",
+            "items": [
+              {
+                "num": 1,
+                "txval": 103929.44,
+                "iamt": 18707.3,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACR1234F1ZT",
+        "cname": "Reliance Retail Ventures",
+        "inv": [
+          {
+            "inum": "INV/2026/0024",
+            "idt": "2026-09-05",
+            "val": 15348.6,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 13007.28,
+                "iamt": 0.0,
+                "camt": 1170.66,
+                "samt": 1170.66,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACS4455Q1ZY",
+        "cname": "Sun Pharma Industries",
+        "inv": [
+          {
+            "inum": "INV/2026/0025",
+            "idt": "2026-09-17",
+            "val": 225685.11,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 191258.57,
+                "iamt": 34426.54,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACA8899J1Z6",
+        "cname": "Adani Ports & SEZ Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0026",
+            "idt": "2026-09-21",
+            "val": 250948.78,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 212668.46,
+                "iamt": 38280.32,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "07AAACB7890K1ZA",
+        "cname": "Bharti Airtel Ltd",
+        "inv": [
+          {
+            "inum": "BILL-27",
+            "idt": "2026-09-10",
+            "val": 70552.27,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 59790.06,
+                "iamt": 10762.21,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACT2456M1Z2",
+        "cname": "Tata Consultancy Services Ltd",
+        "inv": [
+          {
+            "inum": "INV/0028",
+            "idt": "2026-09-14",
+            "val": 85403.7,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 72375.47,
+                "iamt": 0.0,
+                "camt": 6514.11,
+                "samt": 6514.11,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACR1234F1ZT",
+        "cname": "Reliance Retail Ventures",
+        "inv": [
+          {
+            "inum": "GSTR-ONLY/0030",
+            "idt": "2026-09-15",
+            "val": 136872.49,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "N",
+            "rsn": "Ineligible under Section 17(5) - Blocked Credit",
+            "items": [
+              {
+                "num": 1,
+                "txval": 115993.63,
+                "iamt": 0.0,
+                "camt": 10439.43,
+                "samt": 10439.43,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACS4455Q1ZY",
+        "cname": "Sun Pharma Industries",
+        "inv": [
+          {
+            "inum": "INV/2026/0032",
+            "idt": "2026-09-12",
+            "val": 36261.98,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 30730.49,
+                "iamt": 5531.49,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AAACW3452B1ZK",
+        "cname": "Wipro Enterprises Pvt Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0033",
+            "idt": "2026-09-03",
+            "val": 89072.82,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 75485.44,
+                "iamt": 13587.38,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "27AAACT2456M1Z2",
+        "cname": "Tata Consultancy Services Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0034",
+            "idt": "2026-09-18",
+            "val": 120457.69,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 102082.79,
+                "iamt": 0.0,
+                "camt": 9187.45,
+                "samt": 9187.45,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "09AAACH6781D1ZJ",
+        "cname": "HCL Technologies Ltd",
+        "inv": [
+          {
+            "inum": "BILL-35",
+            "idt": "2026-09-03",
+            "val": 189593.86,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 160672.76,
+                "iamt": 28921.1,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AAACW3452B1ZK",
+        "cname": "Wipro Enterprises Pvt Ltd",
+        "inv": [
+          {
+            "inum": "INV/0036",
+            "idt": "2026-09-21",
+            "val": 287154.85,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 243351.02,
+                "iamt": 43803.83,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACL4567H1ZJ",
+        "cname": "Larsen & Toubro Ltd",
+        "inv": [
+          {
+            "inum": "GSTR-ONLY/0038",
+            "idt": "2026-09-16",
+            "val": 284287.71,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "N",
+            "rsn": "Ineligible under Section 17(5) - Blocked Credit",
+            "items": [
+              {
+                "num": 1,
+                "txval": 240921.79,
+                "iamt": 43365.92,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACA8899J1Z6",
+        "cname": "Adani Ports & SEZ Ltd",
+        "inv": [
+          {
+            "inum": "INV/2026/0040",
+            "idt": "2026-09-07",
+            "val": 27626.09,
+            "pos": "27",
+            "inv_typ": "R",
+            "itcavl": "Y",
+            "rsn": "",
+            "items": [
+              {
+                "num": 1,
+                "txval": 23411.94,
+                "iamt": 4214.15,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "cdnr": [
+      {
+        "ctin": "09AAACH6781D1ZJ",
+        "cname": "HCL Technologies Ltd",
+        "nt": [
+          {
+            "ntnum": "CRN/0007",
+            "ntdt": "2026-09-25",
+            "val": 55533.65,
+            "typ": "C",
+            "itcavl": "Y",
+            "items": [
+              {
+                "txval": 47062.41,
+                "iamt": 8471.24,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "07AAACB7890K1ZA",
+        "cname": "Bharti Airtel Ltd",
+        "nt": [
+          {
+            "ntnum": "CRN/0015",
+            "ntdt": "2026-09-17",
+            "val": 10827.77,
+            "typ": "C",
+            "itcavl": "Y",
+            "items": [
+              {
+                "txval": 9176.08,
+                "iamt": 1651.69,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "24AAACS4455Q1ZY",
+        "cname": "Sun Pharma Industries",
+        "nt": [
+          {
+            "ntnum": "CRN/0023",
+            "ntdt": "2026-09-28",
+            "val": 30256.65,
+            "typ": "C",
+            "itcavl": "Y",
+            "items": [
+              {
+                "txval": 25641.23,
+                "iamt": 4615.42,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "29AABCI9087E1Z8",
+        "cname": "Infosys Technologies Ltd",
+        "nt": [
+          {
+            "ntnum": "CRN/0031",
+            "ntdt": "2026-09-19",
+            "val": 69924.82,
+            "typ": "C",
+            "itcavl": "Y",
+            "items": [
+              {
+                "txval": 59258.32,
+                "iamt": 10666.5,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ctin": "09AAACH6781D1ZJ",
+        "cname": "HCL Technologies Ltd",
+        "nt": [
+          {
+            "ntnum": "CRN/0039",
+            "ntdt": "2026-09-17",
+            "val": 46875.56,
+            "typ": "C",
+            "itcavl": "Y",
+            "items": [
+              {
+                "txval": 39725.05,
+                "iamt": 7150.51,
+                "camt": 0.0,
+                "samt": 0.0,
+                "csamt": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
